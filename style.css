@@ -582,7 +582,7 @@ button{
 	font-weight: 600;
 	margin: 15px 0;
 	padding: 15px 0;
-	border-bottom: 3px solid gray;
+	border-bottom: 1px solid #0F94D5;
 	transition: .6s;
 }
 .faq-text p{
