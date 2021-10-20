@@ -578,7 +578,7 @@ button{
 
 .faq-text{}
 .faq-text h3:not(last-child){
-	width: 60%;
+	width: 75%;
 	font-weight: 600;
 	margin: 15px 0;
 	padding: 15px 0;
